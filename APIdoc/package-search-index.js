@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"game.controller"},{"l":"game.model"},{"l":"game.view"},{"l":"login.controller"},{"l":"login.model"},{"l":"login.view"},{"l":"所有程序包","url":"allpackages-index.html"}]
