@@ -4,6 +4,8 @@
 
 `TypingGame` 目录下包含了程序的所有源代码(`src`目录下)，以及程序相关文件。项目基于 SE8.0 开发，使用了外部包 jackson(`Referenced_Libraries`目录下) 。该目录下含有相关配置文件，可以直接使用 eclipse 或 IDEA 导入该项目。
 
+
+
 ------
 
 ## 类的设计—— UML 图
